@@ -1,6 +1,6 @@
 import './MemeGen.css'
 import Meme from './components/Meme';
-import Header from "./components/header";
+import Header from "./components/Header";
 
 export default function MemeGen(){
     return(
